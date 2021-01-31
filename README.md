@@ -1,1 +1,1 @@
-# Data_Science_Methodologies
+# Data Science Methodologies
